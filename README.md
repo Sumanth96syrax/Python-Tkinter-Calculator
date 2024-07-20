@@ -19,7 +19,7 @@ A simple calculator application built using Python's `tkinter` library. This des
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/tkinter_calculator.git
+   git clone https://github.com/Sumanth96syrax/Python-Tkinter-Calculator
    
 ## Run the application
 - python calculator.py
